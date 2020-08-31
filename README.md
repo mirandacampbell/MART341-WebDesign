@@ -1,2 +1,2 @@
-# MART341-WebDesign
+# Miranda Campbell's MART341-WebDesign
 Repository for my Introduction to Web Design and Development Homework 
