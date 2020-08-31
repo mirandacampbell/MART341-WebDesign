@@ -1,0 +1,7 @@
+The internet is much larger and considered to be a network of networks, while the world wide web is considered to be a service on top of the networks.
+The internets works by using packets of routing networks that follows the internet protocol and transport control protocol. 
+A directory is a filing system that uses catalog structures and are well known as folders. Directories can store the attributes of files. 
+VCS will be beneficial to me because it will allow to to see the changes I have made and also allow me to undo those changes if needed. 
+done.
+My favorite kind of art would have to be music because I feel like artists have a way of putting my thoughts and feelings into words. 
+done. 
