@@ -1,6 +1,5 @@
-# Heading 1
-## Heading 2
-### Heading 3
+# Assignment 3
+## Miranda Campbell
 
 long paragraph long paragraph long paragraph long paragraph long paragraph long paragraph long paragraph long paragraph long paragraph long paragraph long paragraph long paragraph long paragraph long paragraph long paragraph long paragraph long paragraph long paragraph long paragraph long paragraph
 
