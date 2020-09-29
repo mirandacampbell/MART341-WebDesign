@@ -1,0 +1,3 @@
+1. The head contains the high level information about a site. It contains the thoughts of the page. The head often contains the title as well. The body contains most of the "meat and potatoes" of the site. There should be one of each element, but multiple things can go inside of that element.
+2. Structural markup is the elements used to describe paragraphs and headings. Semantic markup provides extra information, such as emphasis being placed in a sentence, or something written in quotes.
+3. I went through the course website first and then used atom to do the homework. I just went down the list of requirements for the homework and added each element, and then checked my index in safari to make sure everything was working correctly.  
