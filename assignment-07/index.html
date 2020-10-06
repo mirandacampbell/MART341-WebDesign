@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Dog and Bicycle Cafe">
+    <meta name="author" content="Miranda Campbell">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <h1>Dog and Bicycle Cafe</h1>
+      <img src="./images/D&B-Logo.png" alt="An image of the Dog and Bicycle Cafe Logo" title="Dog and Bicycle Cafe" width="300" height="300" />
+    <h2>Find Us At:</h2>
+      <address>
+        875 Wyoming St #102,<br />
+        Missoula, MT 59801
+      </address>
+    <h2>Contact Us:</h2>
+      <a href="tel:406-829-9663">406-829-9663</a> <br />
+      <a href="mailto:miranda.campbell@umontana.edu">miranda.campbell@umontana.edu</a>
+    <h2>Business Hours:</h2>
+      <style>
+        table, th, td {
+          border: 1px solid black;
+        }
+      </style>
+      <table style="width: 300px; margin: 40px auto;">
+        <tr>
+          <th scope="row">Monday-Saturday</th>
+          <td>7:00am-4:00pm</td>
+        </tr>
+        <tr>
+          <th scope="row">Sunday</th>
+          <td>7:30am-4:00pm</td>
+      </table>
+    <h2>Enter to Win a Free Coffee</h2>
+      <form action="/action-page.php">
+        <label for="fname">First name:<label>
+        <input type="text" id="fname" name="fname" autofocus /><br><br>
+        <label for="lname">Last name:</label>
+        <input type="text" id="lname" name="lname"><br><br>
+        <input type="submit" value="Submit">
+      </form>
+    <h2>Coffee Preferences</h2>
+      <form action="/action_page.php">
+        <p>Please select your preferred coffee type:</p>
+          <input type="radio" id="drip" name="coffee" value="drip">
+          <label for="drip">Drip</label><br>
+          <input type="radio" id="americano" name="coffee" value="americano">
+          <label for="americano">Americano</label><br>
+          <input type="radio" id="latte" name="coffee" value="latte">
+          <label for="latte">Latte</label><br>
+          <input type="radio" id="mocha" name="coffee" value="mocha">
+          <label for="mocha">Mocha</label><br>
+          <input type="radio" id="other" name="coffee" value="other">
+          <label for="other">Other</label>
+          <br><br>
+          <input type="submit" value="Submit">
+    <h2>How did you hear about us?</h2>
+      <form action="/action_page.php">
+        <label for="methods">Please select how you heard about us:</label>
+        <select name="methods">
+          <option value="friend">From a friend</option>
+          <option value="online">Social Media</option>
+          <option value="add">TV Advertisement</option>
+          <option value="other">Other</option>
+        </select>
+        <br><br>
+        <input type="submit" value="Submit">
+      </form>
+  </body>
+</html>
