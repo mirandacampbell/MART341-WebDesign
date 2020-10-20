@@ -1,0 +1,3 @@
+1. The basic structural setup such as the 4 main elements and 4 meta elements are something that I have become familiar with so that was easy to incorporate into all of the html pages. I think that the styling element has been fun to play with and figure out. I don't believe that I have used the nav element before so that was a new experience that I had to figure out how to incorporate correctly.
+2. I am actually really excited to learn more about styling because I definitely think my pages could look much better if I knew more about styling!
+3. I think this assignment was pretty straightforward overall, I think the hardest part was just making sure to include all of the required elements!
