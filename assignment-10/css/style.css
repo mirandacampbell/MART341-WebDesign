@@ -1,0 +1,10 @@
+body{
+  background-color: lightpink;
+}
+
+#mainheader{
+  text-align: center;
+  color: teal;
+  opacity: .50;
+  font-size: 100px
+}
