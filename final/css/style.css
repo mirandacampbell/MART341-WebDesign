@@ -1,0 +1,113 @@
+body{
+  background-color: #FFFACD;
+}
+
+h1{
+  text-align: center;
+  font-family: Verdana;
+}
+
+header{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  background-color: #F08080;
+  font-family: Arial;
+  text-transform: uppercase;
+  margin-top:auto;
+  height: 4em;
+  width: 100%;
+  text-align: left;
+}
+
+.menu-item {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: #CD5C5C;
+    padding: 0.5em 1em;
+}
+
+.menu-item a {
+    color: #800000;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: bisque;
+
+}
+
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #800000;
+    margin: 0.5em 0 0 -1em;
+    color: #800000;
+    background-color: #CD5C5C;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: #000;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: black;
+    background-color: #8B0000;
+}
+
+.contactsection {
+  text-align: center;
+}
+
+.cake-image {
+  height: 500px;
+  width: 300px;
+  float: left;
+  content:url("../images/cake.jpeg");
+}
+
+.muffins{
+  float: right;
+}
+
+@media only screen and (min-width: 600px) {
+  .muffin-image{
+    content:url("../images/muffins.png");
+  }
+}
+
+.miranda {
+  padding-right: 10px;
+  height: 550px;
+  width: 450px;
+  float: left;
+  content:url("../images/miranda.jpeg");
+}
+
+@media only screen and (min-width: 600px) {
+  .miranda {
+    content:url("../images/miranda.jpeg");
+  }
+}
+
+.aboutme {
+  font-family: Verdana;
+}

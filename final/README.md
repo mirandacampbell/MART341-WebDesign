@@ -1,0 +1,3 @@
+1. Everything we learned in this course was completely new to me, I have never taken any other type of Web Design course which meant that this whole course was quite the learning experience.
+2. My answer to this question is ultimately the same as my answer to the first question! I truly knew nothing about web design or development prior to this class! I did have a lot of fun learning about design and development though!
+3. I would say that because everything was new to me I almost never got anything correct the first time, so I spent a lot of time undergoing a trial and error process to make my webpages display the way I had envisioned them in my head!
